@@ -19,7 +19,7 @@ An ATM takes in a credit card and gives out money. The inputs and outputs are as
 
 ![PayDay](https://media1.giphy.com/media/l41lYNASsqlUOt9Xq/200.webp?cid=ecf05e470far77gx1fo8ltxiqu2ssq1ut5augnpc96cm8ld0&rid=200.webp&ct=g)
 #### A Bicycle
-Another example is a bicycle. There could be many functions made of this but lets start with a bicycle takes in pedals as input and gives out going forward as output.
+Another example is a bicycle. There could be many functions made of this but lets start with a bicycle takes in pedals as input and gives out going forward as output
 
     - Input: Pedaling
 
